@@ -1,0 +1,8 @@
+project_id: "01KKSNE6E69AR7ZMQFCTD3H5BX"
+folder_id: "01M0ZJWKCCBJ3JZ2YQKG1K0417"
+assignee: 3153886
+configuration_name: "MCcormick"
+test_url: "https://devanshsinghlt.github.io/KaneAI-Github-App-Integration/"
+#tunnel_name: ""
+scenario_limit: 5                
+test_cases_per_scenario: 5  
